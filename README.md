@@ -1,6 +1,6 @@
 # Guilded-Community-Rules
 Server rules and whatnot
-1: Treat others with respect. If you're going to argue, keep it civil.
+1: Treat others with respect. If you're going to argue, keep it civil.\n
 2: No illegal, malicious, hateful, or NSFW content
 3: Try to keep cursing to a minimum if at all possible.
 4: No spamming or YELLING-IN-TEXT (see rule 1)
