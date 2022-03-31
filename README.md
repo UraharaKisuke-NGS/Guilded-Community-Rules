@@ -15,6 +15,7 @@ Server rules and whatnot
 13. Absolutely no hacking, malware, etc. (see rule 2).
 14. These rules may be adjusted as needed in the future. Any changes will be made known but will not require a revalidation.
     Continued presence on the server after a rule change event will constitute the acknowledgement and acceptance of said changes.
+15. No advertising, soliciting, etc... of any kind.
 
 Failure to abide by *any* of these rules can (and likely will) result in your removal from the server.
 
